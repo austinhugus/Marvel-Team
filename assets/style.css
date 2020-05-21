@@ -7,3 +7,12 @@ body {
 main {
     flex-grow: 1;
 }
+
+.list-container {
+    max-height: 40vh;
+    overflow-y: scroll;
+}
+
+.action {
+    cursor: pointer;
+}
